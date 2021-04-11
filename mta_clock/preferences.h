@@ -3,7 +3,7 @@ const char ssid[] = "your-wifi-network-here";
 const char password[] = "your-wifi-password-here";
 
 //Server IP address
-const char serverIP[] = "your-server-ip-here"
+const char serverIP[] = "your-server-ip-here";
 
 // Find the four-character station ID from:
 // https://github.com/boscacci/MTAPI/blob/read-plaintext-stops-transfers/scripts/stations.json
